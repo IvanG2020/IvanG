@@ -4,7 +4,7 @@ Hi 👋 My name is Ivan Galas
 Software Engineer
 -----------------
 
-Full-Stack experience using .NET Framework 4.6.2, ASP.NET Core 3.1+ MVC, C#, Angular 8+, TypeScript, Microsoft SQL Server, Entity Framework, JavaScript, Microsoft Azure
+Full-Stack experience using .NET Framework 4.6.2+, ASP.NET Core 3.1+ MVC, C#, Angular 8+, TypeScript, Microsoft SQL Server, Entity Framework, JavaScript, Microsoft Azure
 
 * 🌍  I'm based in Vancouver, WA
 * ✉️  You can contact me at [ivangalas\_15@hotmail.com](mailto:ivangalas_15@hotmail.com)
